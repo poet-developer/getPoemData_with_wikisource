@@ -5,6 +5,8 @@
 - wikiextractor==3.0.6
 - gdown==5.2.0
 
+---
+-참고 
 
 **AKS-DHLAB.** (2025). *KPoEM: Korean Poetry Emotion Mapping Dataset*. Hugging Face.  
 Available at: [https://huggingface.co/datasets/AKS-DHLAB/KPoEM](https://huggingface.co/datasets/AKS-DHLAB/KPoEM)
