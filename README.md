@@ -1,7 +1,7 @@
 # getPoemLineData_with-wikisource
 
 사용된 주요 기능 버전
-- pyhon 10.3.18
+- python 10.3.18
 - wikiextractor==3.0.6
 - gdown==5.2.0
 
